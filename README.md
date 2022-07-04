@@ -1,6 +1,6 @@
 # Contador JS
 
-Neste simples projeto desenvolvi um contador que soma e subtrai os números a medida em que clica nos butões "+" e "-". Utilizei aplicações de alguns conceitos básicos do HTML, CSS e Javascript. 
+Neste simples projeto desenvolvi um contador que soma e subtrai os números à medida em que se clica sobre os butões "+" e "-". Utilizei aplicações de alguns conceitos básicos do HTML, CSS e Javascript. 
 
 
 
