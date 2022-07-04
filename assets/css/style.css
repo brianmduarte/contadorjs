@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+body {
+    background-color: #f3f3f3f3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    color: #fcac35;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#counter {
+    text-align: center;
+    display: flex;
+}
+
+button {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 2px solid rgb(233, 252, 62);
+    background-color: rgb(233, 252, 62);;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 20px;
+}
+
+p {
+    font-weight: bolder;
+}
+
+
